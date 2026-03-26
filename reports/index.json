@@ -1,0 +1,34 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20260326-203403-zrlw",
+      "title": "V A X O U H H H",
+      "commanders": [
+        "V A X O U H H H"
+      ],
+      "dateStart": "2026-03-26T19:34:03.000Z",
+      "dateEnd": "2026-03-26T20:50:51.000Z",
+      "dateLabel": "26/03/2026 20:34:03 - 26/03/2026 21:50:51",
+      "url": "https://WashioGW2.github.io/Arc-Project/?report=20260326-203403-zrlw",
+      "summary": {
+        "borderlandsPct": 0.18181818181818182,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 18,
+            "color": "#64748b"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 41
+      }
+    }
+  ]
+}
