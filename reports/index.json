@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260427-212032-a6ad",
+      "title": "Arthur Mes",
+      "commanders": [
+        "Arthur Mes"
+      ],
+      "dateStart": "2026-04-27T19:20:32.000Z",
+      "dateEnd": "2026-04-27T19:24:28.000Z",
+      "dateLabel": "27/04/2026 21:20:32 - 27/04/2026 21:24:28",
+      "url": "https://WashioGW2.github.io/Arc-Project/?report=20260427-212032-a6ad",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 86
+      }
+    },
+    {
       "id": "20260409-211354-qqc2",
       "title": "Arthur Stonehenge",
       "commanders": [
