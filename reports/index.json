@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260507-210810-qeqv",
+      "title": "Arthur Stonehenge",
+      "commanders": [
+        "Arthur Stonehenge"
+      ],
+      "dateStart": "2026-05-07T19:08:10.000Z",
+      "dateEnd": "2026-05-07T19:56:38.000Z",
+      "dateLabel": "07/05/2026 21:08:10 - 07/05/2026 21:56:38",
+      "url": "https://WashioGW2.github.io/Arc-Project/?report=20260507-210810-qeqv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 22,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260503-211133-4jae",
       "title": "Arthur Stonehenge",
       "commanders": [
