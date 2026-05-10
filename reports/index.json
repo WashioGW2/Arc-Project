@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260510-211106-fi3u",
+      "title": "Arthur Stonehenge",
+      "commanders": [
+        "Arthur Stonehenge"
+      ],
+      "dateStart": "2026-05-10T19:11:06.000Z",
+      "dateEnd": "2026-05-10T19:51:37.000Z",
+      "dateLabel": "10/05/2026 21:11:06 - 10/05/2026 21:51:37",
+      "url": "https://WashioGW2.github.io/Arc-Project/?report=20260510-211106-fi3u",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 18,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260507-210810-qeqv",
       "title": "Arthur Stonehenge",
       "commanders": [
