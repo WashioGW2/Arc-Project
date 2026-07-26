@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-210735-g54t",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "dateStart": "2026-07-26T19:07:35.000Z",
+      "dateEnd": "2026-07-26T19:56:48.000Z",
+      "dateLabel": "26/07/2026 21:07:35 - 26/07/2026 21:56:48",
+      "url": "https://WashioGW2.github.io/Arc-Project/?report=20260726-210735-g54t",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260726-200729-2acs",
       "title": "Venomnomnóm",
       "commanders": [
