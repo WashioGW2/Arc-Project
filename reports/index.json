@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-201007-24jv",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "66B6911E-2A34-F111-BB23-067697280D5B",
+        "name": "I Lmpw Flawless Execution",
+        "tag": "lmpw"
+      },
+      "dateStart": "2026-08-02T18:10:07.000Z",
+      "dateEnd": "2026-08-02T18:49:08.000Z",
+      "dateLabel": "02/08/2026 20:10:07 - 02/08/2026 20:49:08",
+      "url": "https://WashioGW2.github.io/Arc-Project/?report=20260802-201007-24jv",
+      "summary": {
+        "borderlandsPct": 0.3076923076923077,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 27,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260726-210735-g54t",
       "title": "Venomnomnóm",
       "commanders": [
