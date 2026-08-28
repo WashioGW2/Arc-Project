@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260827-210734-1ycl",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-08-27T19:07:34.000Z",
+      "dateEnd": "2026-08-27T19:20:40.800Z",
+      "dateLabel": "27/08/2026 21:07:34 - 27/08/2026 21:20:40",
+      "url": "https://WashioGW2.github.io/Arc-Project/?report=20260827-210734-1ycl",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 4,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260802-201007-24jv",
       "title": "Venomnomnóm",
       "commanders": [
