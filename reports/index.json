@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260907-211216-hoor",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-09-07T19:12:16.000Z",
+      "dateEnd": "2026-09-07T19:48:41.653Z",
+      "dateLabel": "07/09/2026 21:12:16 - 07/09/2026 21:48:41",
+      "url": "https://WashioGW2.github.io/Arc-Project/?report=20260907-211216-hoor",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 10,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260827-210734-1ycl",
       "title": "Venomnomnóm",
       "commanders": [
